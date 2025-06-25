@@ -145,8 +145,7 @@ virtual-mouse/
 │
 ├── virtual-mouse.ipynb      # Main Jupyter notebook
 ├── requirements.txt         # Python dependencies
-├── README.md               # This file
-└── assets/                 # Screenshots and demos (optional)
+└── README.md                # This file
 ```
 
 ## 🔧 Technical Details
