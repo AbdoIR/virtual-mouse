@@ -40,7 +40,7 @@ A computer vision-based virtual mouse application that allows you to control you
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/virtual-mouse.git
+git clone https://github.com/AbdoIR/virtual-mouse.git
 cd virtual-mouse
 ```
 
@@ -145,8 +145,7 @@ virtual-mouse/
 │
 ├── virtual-mouse.ipynb      # Main Jupyter notebook
 ├── requirements.txt         # Python dependencies
-├── README.md               # This file
-└── assets/                 # Screenshots and demos (optional)
+└── README.md                # This file
 ```
 
 ## 🔧 Technical Details
@@ -243,7 +242,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/virtual-mouse/issues) page
+1. Check the [Issues](https://github.com/AbdoIR/virtual-mouse/issues) page
 2. Create a new issue with detailed information
 3. Join the discussion in existing issues
 
